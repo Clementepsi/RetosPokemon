@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: 'karla', sans-serif;
+    background-color: #f5f7fb;
+}
+h1 {
+    color: blueviolet;
+    border: 10px;
+    border-color: blue;
+}
+h2 {
+    color: brown;
+    border: 10px;
+    border-color: red;
+}
+
+li {
+    color: rebeccapurple;
+}
